@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my homelab**
 
-- ⚡ Fun fact **I've never learned it related stuff.**
+- ⚡ Fun fact **I've never learned it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
